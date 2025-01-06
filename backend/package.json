@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "papaparse": "^5.4.1",
+    "react-d3-speedometer": "^2.2.1",
+    "rsuite": "^5.74.2",
+    "xlsx": "^0.18.5"
+  }
+}
